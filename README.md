@@ -1,4 +1,4 @@
 # Noise-Removal-autoencoders
 
-100 epochs
+## 100 epochs. 
 You can add more epochs for further training
